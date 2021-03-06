@@ -12,4 +12,4 @@ Items are the the actual pieces created by our computers which are tokenized and
 
 ## Current releases
 
-**ye** - [[README](https://google.com)]
+**ye** - [[README](https://github.com/nfteezus/ye/README.md)]
